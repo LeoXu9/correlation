@@ -1,0 +1,15 @@
+Bar 1
+  RGB values: (0, 0, 0)
+  HSV values: (0, 0, 0)
+Bar 2
+  RGB values: (206, 100, 93)
+  HSV values: (2, 140, 206)
+Bar 3
+  RGB values: (200, 118, 108)
+  HSV values: (3, 117, 200)
+Bar 4
+  RGB values: (125, 87, 80)
+  HSV values: (5, 92, 125)
+Bar 5
+  RGB values: (58, 44, 40)
+  HSV values: (7, 79, 58)

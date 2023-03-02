@@ -1,0 +1,191 @@
+﻿names,R,G,B,Output,Area,Label
+A,209,101,95,8,215111,severe
+A1,210,103,97,8,215111,severe
+A2,206,101,96,8,215111,severe
+A3,207,104,97,8,215111,severe
+A4,209,100,95,8,215111,severe
+Annie,150,11,30,40,97584,mild
+Annie1,168,50,60,40,97584,mild
+Annie2,158,20,36,40,97584,mild
+Annie3,149,10,29,40,97584,mild
+Annie4,150,11,30,40,97584,mild
+Archie,146,9,29,44,76630,no anaemia
+Archie1,146,8,28,44,76630,no anaemia
+Archie2,147,10,30,44,76630,no anaemia
+Archie3,146,9,29,44,76630,no anaemia
+Archie4,141,6,27,44,76630,no anaemia
+B,207,101,94,7,126515,severe
+B1,208,102,95,7,126515,severe
+B2,206,100,93,7,126515,severe
+B3,206,100,93,7,126515,severe
+B4,208,101,95,7,126515,severe
+Bag,96,2,11,60,28781,no anaemia
+Bag1,94,2,10,60,28781,no anaemia
+Bag2,98,2,12,60,28781,no anaemia
+Bag3,95,1,10,60,28781,no anaemia
+Bag4,98,3,12,60,28781,no anaemia
+Bianco,155,19,34,35,72056,mild
+Bianco1,163,28,41,35,72056,mild
+Bianco2,159,27,39,35,72056,mild
+Bianco3,155,20,34,35,72056,mild
+Bianco4,155,20,34,35,72056,mild
+Bo,155,12,28,45,50801,no anaemia
+Bo1,166,46,55,45,50801,no anaemia
+Bo2,153,9,26,45,50801,no anaemia
+Bo3,154,12,28,45,50801,no anaemia
+Bo4,166,40,51,45,50801,no anaemia
+Buster,142,3,23,46,70059,no anaemia
+Buster1,134,0,20,46,70059,no anaemia
+Buster2,140,3,22,46,70059,no anaemia
+Buster3,146,5,25,46,70059,no anaemia
+Buster4,142,4,22,46,70059,no anaemia
+C,196,67,68,15,137405,severe
+C1,197,64,66,15,137405,severe
+C2,195,67,68,15,137405,severe
+C3,196,65,66,15,137405,severe
+C4,197,68,69,15,137405,severe
+Callie,164,39,51,55,53055,no anaemia
+Callie1,167,29,42,55,53055,no anaemia
+Callie2,167,44,56,55,53055,no anaemia
+Callie3,171,48,60,55,53055,no anaemia
+Callie4,167,30,43,55,53055,no anaemia
+Cleo,141,4,26,40,37275,mild
+Cleo1,144,6,28,40,37275,mild
+Cleo2,140,3,25,40,37275,mild
+Cleo3,141,4,25,40,37275,mild
+Cleo4,141,4,27,40,37275,mild
+D,203,115,106,5,144824,severe
+D1,204,115,106,5,144824,severe
+D2,203,115,106,5,144824,severe
+D3,203,115,106,5,144824,severe
+D4,204,115,106,5,144824,severe
+Daisy,118,9,25,51,80332,no anaemia
+Daisy1,124,11,28,51,80332,no anaemia
+Daisy2,124,9,26,51,80332,no anaemia
+Daisy3,115,6,23,51,80332,no anaemia
+Daisy4,120,10,27,51,80332,no anaemia
+Floyd,189,54,57,19,54167,severe
+Floyd1,188,52,56,19,54167,severe
+Floyd2,190,47,52,19,54167,severe
+Floyd3,188,44,49,19,54167,severe
+Floyd4,190,55,58,19,54167,severe
+Gigha,173,28,39,36,57921,mild
+Gigha1,174,28,39,36,57921,mild
+Gigha2,171,28,38,36,57921,mild
+Gigha3,173,28,39,36,57921,mild
+Gigha4,173,28,39,36,57921,mild
+Gracie,189,61,63,15,90490,severe
+Gracie1,190,56,60,15,90490,severe
+Gracie2,189,62,64,15,90490,severe
+Gracie3,188,66,67,15,90490,severe
+Gracie4,189,61,63,15,90490,severe
+Gus,166,29,39,31,54982,mild
+Gus1,170,36,44,31,54982,mild
+Gus2,165,26,37,31,54982,mild
+Gus3,167,30,40,31,54982,mild
+Gus4,167,30,39,31,54982,mild
+Isla,179,35,45,32,89896,mild
+Isla1,180,35,46,32,89896,mild
+Isla2,178,34,45,32,89896,mild
+Isla3,181,36,47,32,89896,mild
+Isla4,181,36,47,32,89896,mild
+Juno,188,55,60,19,86175,severe
+Juno1,188,52,57,19,86175,severe
+Juno2,188,52,58,19,86175,severe
+Juno3,186,48,54,19,86175,severe
+Juno4,189,55,60,19,86175,severe
+Lady,165,34,47,39,67675,mild
+Lady1,164,26,41,39,67675,mild
+Lady2,167,38,50,39,67675,mild
+Lady3,164,29,43,39,67675,mild
+Lady4,166,33,46,39,67675,mild
+Lester,146,4,23,54,42811,no anaemia
+Lester1,147,5,24,54,42811,no anaemia
+Lester2,145,4,23,54,42811,no anaemia
+Lester3,145,4,23,54,42811,no anaemia
+Lester4,148,5,25,54,42811,no anaemia
+Lola,131,12,28,49,43283,no anaemia
+Lola1,129,9,26,49,43283,no anaemia
+Lola2,145,41,52,49,43283,no anaemia
+Lola3,145,41,52,49,43283,no anaemia
+Lola4,130,10,27,49,43283,no anaemia
+M1,186,52,56,15,133255,severe
+M11,187,51,56,15,133255,severe
+M12,185,52,55,15,133255,severe
+M13,185,51,55,15,133255,severe
+M14,187,52,56,15,133255,severe
+M2,203,88,78,6,174093,severe
+M21,203,88,78,6,174093,severe
+M22,205,85,76,6,174093,severe
+M23,204,90,79,6,174093,severe
+M24,203,83,74,6,174093,severe
+M3,196,81,76,7,136564,severe
+M31,199,83,78,7,136564,severe
+M32,194,79,74,7,136564,severe
+M33,196,82,76,7,136564,severe
+M34,197,80,75,7,136564,severe
+Maggie,161,21,34,43,51402,no anaemia
+Maggie1,167,30,41,43,51402,no anaemia
+Maggie2,160,20,34,43,51402,no anaemia
+Maggie3,160,20,33,43,51402,no anaemia
+Maggie4,169,41,50,43,51402,no anaemia
+N1,198,86,76,6,169112,severe
+N11,201,89,79,6,169112,severe
+N12,196,80,71,6,169112,severe
+N13,197,82,73,6,169112,severe
+N14,199,87,77,6,169112,severe
+N2,207,103,91,5,135732,severe
+N21,209,106,95,5,135732,severe
+N22,205,99,88,5,135732,severe
+N23,206,103,91,5,135732,severe
+N24,207,102,91,5,135732,severe
+N3,176,33,43,25,106410,moderate
+N31,179,35,45,25,106410,moderate
+N32,173,32,42,25,106410,moderate
+N33,175,33,43,25,106410,moderate
+N34,177,33,44,25,106410,moderate
+N4,204,104,95,5,162998,severe
+N41,205,106,96,5,162998,severe
+N42,202,103,93,5,162998,severe
+N43,203,101,92,5,162998,severe
+N44,205,106,97,5,162998,severe
+Noah,155,15,32,45,77678,no anaemia
+Noah1,157,17,34,45,77678,no anaemia
+Noah2,150,12,29,45,77678,no anaemia
+Noah3,154,15,31,45,77678,no anaemia
+Noah4,155,13,31,45,77678,no anaemia
+Odin,80,4,18,56,54886,no anaemia
+Odin1,81,4,19,56,54886,no anaemia
+Odin2,125,11,29,56,54886,no anaemia
+Odin3,80,4,18,56,54886,no anaemia
+Odin4,80,4,18,56,54886,no anaemia
+Pineau,168,26,40,40,56629,mild
+Pineau1,167,26,40,40,56629,mild
+Pineau2,170,29,42,40,56629,mild
+Pineau3,169,30,42,40,56629,mild
+Pineau4,167,26,40,40,56629,mild
+Pippa,162,26,40,40,90574,mild
+Pippa1,164,31,45,40,90574,mild
+Pippa2,160,24,38,40,90574,mild
+Pippa3,155,16,34,40,90574,mild
+Pippa4,161,27,41,40,90574,mild
+Rory,147,11,29,42,64778,no anaemia
+Rory1,134,4,23,42,64778,no anaemia
+Rory2,148,11,30,42,64778,no anaemia
+Rory3,143,6,25,42,64778,no anaemia
+Rory4,122,1,19,42,64778,no anaemia
+Rossi,157,44,54,50,57743,no anaemia
+Rossi1,161,44,55,50,57743,no anaemia
+Rossi2,156,29,43,50,57743,no anaemia
+Rossi3,139,2,20,50,57743,no anaemia
+Rossi4,156,21,37,50,57743,no anaemia
+Shifty,143,25,41,50,76843,no anaemia
+Shifty1,162,67,75,50,76843,no anaemia
+Shifty2,151,27,42,50,76843,no anaemia
+Shifty3,142,23,40,50,76843,no anaemia
+Shifty4,144,26,42,50,76843,no anaemia
+Sula,172,30,43,36,53324,mild
+Sula1,172,29,43,36,53324,mild
+Sula2,174,35,48,36,53324,mild
+Sula3,172,30,44,36,53324,mild
+Sula4,172,30,43,36,53324,mild
